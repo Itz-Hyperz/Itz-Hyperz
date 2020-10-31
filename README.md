@@ -32,8 +32,8 @@
 
 ### GitHub Statistics
 
-<img align="left" alt="Hyperz:" src="https://github-readme-stats.vercel.app/api?username=Itz-Hyperz&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="Hyperz:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Hyperz" />
+<img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api?username=Itz-Hyperz&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Hyperz" />
 
 
 [website]: https://hyperz.zone
