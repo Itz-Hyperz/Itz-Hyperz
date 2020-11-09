@@ -37,12 +37,6 @@
 <img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api?username=Itz-Hyperz&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Hyperz" />
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
 
 [website]: https://hyperz.zone
 [twitter]: https://twitter.com/itz_hyperz
