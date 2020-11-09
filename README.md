@@ -1,45 +1,50 @@
-### 💻 [Hyperz][website] 💻
+![Hyperz Banner](https://raw.githubusercontent.com/Itz-Hyperz/Itz-Hyperz/master/assets/desktopwallpaper.png)
+
+## 👋 &nbsp;Hey there! I'm Hyperz
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="Itz-Hyperz" /> </p>
 
-### Find Me
+### 👨🏻‍💻 &nbsp;About Me
 
-[<img align="left" style="fill: #004d77; color: #004d77;" alt="www.hyperz.zone" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" style="fill: #7289DA; color: #7289DA;" alt="Hyperz - Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" style="fill: red; color: red;" alt="Hyperz - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" style="fill: #1DA1F2; color: #1DA1F2;" alt="Hyperz - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" style="fill: #6441A4; color: #6441A4;" alt="Hyperz - Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Python and NodeJS.\
+🌱 &nbsp;I'm on track for learning more about LUA, Javascript, HTML, & more!\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Gaming as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for questions and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at logan@hyperz.dev! I'll try to respond as soon as I can.\
 
-<br />
-<br />
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Itz-Hyperz/Itz-Hyperz/master/assets/Night-Coding.gif" align="right"/>
 
-[![Discord](https://cdn.discordapp.com/attachments/704878178992128001/766678838226190346/unknown.png)](https://discord.gg/d5Wbegw)
+### 🛠 &nbsp;Tech Stack
 
-<br />
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp
 
-### Languages and Tools/Platforms:
+### ⚙️ &nbsp;GitHub Analytics
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+<p align="center">
+<a href="https://github.com/Itz-Hyperz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
 
-<br />
+### 🤝🏻 &nbsp;Connect with Me
 
-----
-
-### GitHub Statistics
-
-<img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api?username=Itz-Hyperz&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Hyperz" />
-
-
-[website]: https://hyperz.zone
-[twitter]: https://twitter.com/itz_hyperz
-[twitch]: https://twitch.tv/itzhyperzlive
-[youtube]: https://youtube.com/c/itzhyperz
-[discord]: https://discord.gg/d5Wbegw
+<p align="center">
+<a href="https://www.hyperz.dev"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:logan@hyperz.dev"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/realhyperzyt"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://discord.gg/d5Wbegw"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+<a href="https://www.twitter.com/itz_hyperz"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Twitter&logoColor=white"/></a>
+</p>
