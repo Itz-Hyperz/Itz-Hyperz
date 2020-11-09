@@ -1,5 +1,3 @@
-![Hyperz Banner](https://raw.githubusercontent.com/Itz-Hyperz/Itz-Hyperz/master/assets/desktopwallpaper.png)
-
 ## 👋 &nbsp;Hey there! I'm Hyperz
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="Itz-Hyperz" /> </p>
