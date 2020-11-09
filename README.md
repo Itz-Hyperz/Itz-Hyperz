@@ -1,5 +1,7 @@
 ### 💻 [Hyperz][website] 💻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="Itz-Hyperz" /> </p>
+
 ### Find Me
 
 [<img align="left" style="fill: #004d77; color: #004d77;" alt="www.hyperz.zone" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -41,3 +43,9 @@
 [twitch]: https://twitch.tv/itzhyperzlive
 [youtube]: https://youtube.com/c/itzhyperz
 [discord]: https://discord.gg/d5Wbegw
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
