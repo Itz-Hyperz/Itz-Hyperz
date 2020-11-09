@@ -13,7 +13,7 @@
 
 <img alt="Night Coding" src="https://hyperz.dev/images/uploads/0zal6nli.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Known Languages
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -28,16 +28,16 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Stats
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Itz-Hyperz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Find Me Here
 
 <p align="center">
 <a href="https://www.hyperz.dev"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
