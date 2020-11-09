@@ -44,8 +44,8 @@
 [youtube]: https://youtube.com/c/itzhyperz
 [discord]: https://discord.gg/d5Wbegw
 
-<div align="center">
+[<div align="center">]
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
+[</div>]
