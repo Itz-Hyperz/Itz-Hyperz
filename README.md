@@ -11,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for questions and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at logan@hyperz.dev! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Itz-Hyperz/Itz-Hyperz/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://hyperz.dev/images/uploads/0zal6nli.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
