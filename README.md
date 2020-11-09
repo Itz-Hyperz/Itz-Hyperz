@@ -37,10 +37,10 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Find Me Here
+### 🤝🏻 &nbsp;Find Me Below
 
 <p align="center">
-<a href="https://www.hyperz.dev"><img src="https://img.shields.io/badge/-hyperz.dev-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.hyperz.dev"><img src="https://img.shields.io/badge/-hyperz.dev-3423A6?style=flat-square&logo=Google-Codepen&logoColor=white"/></a>
 <a href="mailto:logan@hyperz.dev"><img src="https://img.shields.io/badge/-logan@hyperz.dev-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/realhyperzyt"><img src="https://img.shields.io/badge/-@realhyperzyt-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://discord.gg/d5Wbegw"><img src="https://img.shields.io/badge/-Discord-1877F2?style=flat-square&logo=Discord&logoColor=white"/></a>
