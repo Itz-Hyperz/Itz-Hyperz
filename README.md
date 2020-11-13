@@ -11,6 +11,8 @@
 💬 &nbsp;Feel free to reach out to me for questions and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at logan@hyperz.dev! I'll try to respond as soon as I can.
 
+<h2 align="center"> </h2>
+
 <img alt="Night Coding" src="https://hyperz.dev/images/uploads/0zal6nli.gif" align="right"/>
 
 ### 🛠 &nbsp;Known Languages
@@ -35,6 +37,23 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
+
+<h2 align="center"> </h2>
+
+### 👓 &nbsp;Some Repositories 
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Hyperz&repo=HyperzHudDesign-FiveM&theme=react)](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Hyperz&repo=ProgramKillers&theme=react)](https://github.com/Itz-Hyperz/ProgramKillers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Hyperz&repo=Itz-Hyperz&theme=react)](https://github.com/Itz-Hyperz/Itz-Hyperz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Hyperz&repo=InfinityEmbeds&theme=react)](https://github.com/Itz-Hyperz/InfinityEmbeds)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Hyperz&repo=cad-integration&theme=react)](https://github.com/Itz-Hyperz/cad-integration)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Hyperz&repo=TeamworkBot&theme=react)](https://github.com/Itz-Hyperz/TeamworkBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Hyperz&repo=RandyAccIDs&theme=react)](https://github.com/Itz-Hyperz/RandyAccIDs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Hyperz&repo=RandyBigSmellyBot&theme=react)](https://github.com/Itz-Hyperz/RandyBigSmellyBot)
+</div>
+
+<h2 align="center"> </h2>
 
 ### 🤝🏻 &nbsp;Find Me Below
 
