@@ -13,8 +13,6 @@
 
 <h2 align="center"> </h2>
 
-<img alt="Night Coding" src="https://hyperz.dev/images/uploads/0zal6nli.gif" align="right"/>
-
 ### 🛠 &nbsp;Known Languages
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
