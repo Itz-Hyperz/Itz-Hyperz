@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Python and NodeJS.\
+🎓 &nbsp;I'm currently studying Python, NodeJS, and HTML.\
 🌱 &nbsp;I'm on track for learning more about LUA, Javascript, HTML, & more!\
 ✉️ &nbsp;You can shoot me an email at logan@hyperz.dev! I'll try to respond as soon as I can.
 
