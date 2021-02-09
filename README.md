@@ -16,7 +16,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, HTML, CSS, Python, etc.
+- 🛠 &nbsp; I’m currently working with NodeJS, HTML, CSS, Python, etc.
 - 🚀 &nbsp; I’m currently learning HTML.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/itz-hyperz).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/itz-hyperz/itz-hyperz/issues/2)! I am happy to help :]
