@@ -49,19 +49,14 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 ---
 
-<div>	
-  <br />
-  <summary><b>⚙️ My Resources & Tools:</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> HP Pavillion</li>
-  	    <li><b>Browser: </b> Brave Browser</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <li><b>To Stay Updated:</b> YouTube, Discord and Twitter</li>
-	    <br />
-	</ul>	
-</div>
+### ⚙️ My Resources & Tools:
 
-#
+- OS: Windows 10
+- Laptop: HP Pavillion
+- Browser: Brave Browser
+- Code Editor: VSCode - The best editor out there
+- Stay Updated: YouTube, Discord and Twitter
+
+---
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
