@@ -12,7 +12,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
 
-<img align="right" height="230" width="375" alt="" src="https://scitechdaily.com/images/Hacking-Cybersecurity.gif" />
+<img align="right" height="250" width="395" alt="" src="https://scitechdaily.com/images/Hacking-Cybersecurity.gif" />
 
 ### Talking about Personal Stuffs:
 
