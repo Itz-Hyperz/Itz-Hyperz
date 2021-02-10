@@ -12,7 +12,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
 
-<img align="right" height="250" width="395" alt="" src="https://scitechdaily.com/images/Hacking-Cybersecurity.gif" />
+<img align="right" height="235" width="385" alt="" src="https://scitechdaily.com/images/Hacking-Cybersecurity.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -22,10 +22,6 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/itz-hyperz/itz-hyperz/issues/2)! I am happy to help :]
 - 📼 &nbsp; Quote: History is written by the victors, history is filled with liars.
 - 📫 &nbsp; How to reach me: logan@hyperz.dev
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 
 ### Languages and Tools:
 
