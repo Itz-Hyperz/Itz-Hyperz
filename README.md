@@ -55,3 +55,5 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 ---
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+
+---
