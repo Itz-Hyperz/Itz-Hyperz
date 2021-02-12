@@ -18,12 +18,12 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 ### Some Highlights:
 
-- 📌 &nbsp; [FiveM HUD Design (Repository)](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
-- 🚀 &nbsp; [Guardian Discord Whitelist (Forked)](https://github.com/Jordan2139/Guardian)
-- 🏫 &nbsp; [Jake's Community Template (Forked)](https://github.com/jekeltor/communitytemplate)
-- 🌀 &nbsp; [Universal Commands (Repository)](https://github.com/Itz-Hyperz/Universal-Commands)
-- 👓 &nbsp; [Overtime Discord Bot (Repository)](https://github.com/Itz-Hyperz/Overtime-Bot)
-- 💻 &nbsp; [This Github Template (Repository)](https://github.com/Itz-Hyperz/Itz-Hyperz)
+- 📌 &nbsp; (Repository) [FiveM HUD Design](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
+- 🌀 &nbsp; (Repository) [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
+- 👓 &nbsp; (Repository) [Overtime Discord Bot](https://github.com/Itz-Hyperz/Overtime-Bot)
+- 💻 &nbsp; (Repository) [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
+- 🚀 &nbsp; (Forked) [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
+- 🏫 &nbsp; (Forked) [Jake's Community Template](https://github.com/jekeltor/communitytemplate)
 
 ### Languages and Tools:
 
