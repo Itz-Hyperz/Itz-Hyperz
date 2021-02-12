@@ -19,11 +19,11 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 ### Some Highlights:
 
 - 📌 &nbsp; [FiveM HUD Design](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
+- 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
+- 🏫 &nbsp; [Jake's Community Template](https://github.com/jekeltor/communitytemplate)
 - 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
 - 👓 &nbsp; [Overtime Discord Bot](https://github.com/Itz-Hyperz/Overtime-Bot)
 - 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
-- 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
-- 🏫 &nbsp; [Jake's Community Template](https://github.com/jekeltor/communitytemplate)
 
 ### Languages and Tools:
 
