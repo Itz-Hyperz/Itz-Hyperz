@@ -23,7 +23,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 - 🏫 &nbsp; [Jake's Community Template](https://github.com/jekeltor/communitytemplate)
 - 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
 - 👓 &nbsp; [Overtime Discord Bot](https://github.com/Itz-Hyperz/Overtime-Bot)
-- 🥩 &nbsp; [Beefer Discord Bot](https://github.com/Itz-Hyperz/Beefers-Sick-Of-It)
+- 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
 
 ### Languages and Tools:
 
