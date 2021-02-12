@@ -16,14 +16,14 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
-### Talking about Personal Stuffs:
+### Some Highlights:
 
-- 🛠 &nbsp; I’m currently working with NodeJS, HTML, CSS, Python, etc.
-- 🚀 &nbsp; I’m currently learning HTML.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/itz-hyperz).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/itz-hyperz/itz-hyperz/issues/2)! I am happy to help :]
-- 📼 &nbsp; Quote: History is written by the victors, history is filled with liars.
-- 📫 &nbsp; How to reach me: logan@hyperz.dev
+- 📌 &nbsp; [FiveM HUD Design](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
+- 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
+- 🏫 &nbsp; [Jake's Community Template](https://github.com/jekeltor/communitytemplate)
+- 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
+- 👓 &nbsp; [Overtime Discord Bot](https://github.com/Itz-Hyperz/Overtime-Bot)
+- 🥩 &nbsp; [Beefer Discord Bot](https://github.com/Itz-Hyperz/Beefers-Sick-Of-It)
 
 ### Languages and Tools:
 
