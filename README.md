@@ -54,7 +54,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 - Laptop: HP Pavillion
 - Browser: Brave Browser
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: YouTube, Discord and Twitter
+- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://hyperz.dev/discord), and [Twitter](https://twitter.com/itz_hyperz)
 
 ---
 
