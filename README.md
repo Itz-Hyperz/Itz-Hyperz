@@ -24,7 +24,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 - 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
 - 🏫 &nbsp; [HyperzFiveM-Base](https://github.com/itz-hyperz/hyperzfivem-base)
 - 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
-- 👓 &nbsp; [Overtime Discord Bot](https://github.com/Itz-Hyperz/Overtime-Bot)
+- 👓 &nbsp; [Utilities Discord Bot](https://github.com/Itz-Hyperz/Hyperz-Utilities-Bot)
 - 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
 
 ### Languages and Tools:
