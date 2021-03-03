@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Hyperz!](https://github.com/itz-hyperz/)
 
-<img align="right" height="60" width="60" alt="" src="https://hyperz.dev/images/logo.png" />
+<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logo.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hyperz.dev/youtube)
