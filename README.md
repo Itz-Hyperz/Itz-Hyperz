@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Hyperz!](https://github.com/itz-hyperz/)
+## Hey 👋, I'm [Hyperz!](https://hyperz.dev/)
 
 <img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logo.png" />
 
