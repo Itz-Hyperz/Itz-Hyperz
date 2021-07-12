@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Hyperz!](https://hyperz.dev/)
+## Hey 👋, I'm [Hyperz!](https://hyperz.dev/) (Follow Me!)
 
 <img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
 
