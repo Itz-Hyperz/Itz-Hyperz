@@ -6,7 +6,7 @@
 const Hyperz = require('200iq.js');
 const chalk = require('chalk');
 
-let doing = ['Sleeping', 'Eating', 'Coding', 'Your Mother'];
+let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
 let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5', 'CSS', 'MySQL', 'Markdown'];
 let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
 
