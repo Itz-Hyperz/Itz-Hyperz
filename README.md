@@ -4,7 +4,7 @@
 ```js
 
 const Hyperz = require('200iq.js');
-const chalk = require('chalk')
+const chalk = require('chalk');
 
 let doing = ['Sleeping', 'Eating', 'Coding', 'Your Mother'];
 let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5', 'CSS', 'MySQL', 'Markdown'];
