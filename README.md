@@ -13,7 +13,7 @@ let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
 let practice = Hyperz.randomize(doing, langs, tools);
 
 let lifeStoryPart1 = `What's up weirdos, I'm a highschooler with a passion for Software Development and Graphic Design! `;
-let lifeStoryPart2 = `I spend most of my time coidng in Discord calls with friends, or playing games on Steam. `;
+let lifeStoryPart2 = `I spend most of my time coding in Discord calls with friends, or playing games on Steam. `;
 let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
 
 console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
