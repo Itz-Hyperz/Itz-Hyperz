@@ -2,22 +2,23 @@
 ## Hey 👋, I'm Hyperz! ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.dev/)
 
 ```js
+async function legend() {
+  const Hyperz = require('200iq.js');
+  const chalk = require('chalk');
 
-const Hyperz = require('200iq.js');
-const chalk = require('chalk');
+  let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
+  let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5', 'CSS', 'MySQL', 'Markdown'];
+  let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
 
-let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
-let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5', 'CSS', 'MySQL', 'Markdown'];
-let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
+  let practice = await Hyperz.randomize(doing, langs, tools);
 
-let practice = Hyperz.randomize(doing, langs, tools);
+  let lifeStoryPart1 = `What's up weirdos, I'm a highschooler with a passion for Software Development and Graphic Design! `;
+  let lifeStoryPart2 = `I spend most of my time coding in Discord calls with friends, or playing games on Steam. `;
+  let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
 
-let lifeStoryPart1 = `What's up weirdos, I'm a highschooler with a passion for Software Development and Graphic Design! `;
-let lifeStoryPart2 = `I spend most of my time coding in Discord calls with friends, or playing games on Steam. `;
-let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
-
-console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
-
+  console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
+}
+exports.hyperz = legend;
 ```
 
 <p align="center">
