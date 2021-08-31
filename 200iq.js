@@ -1,4 +1,4 @@
-async randomize(doing, langs, tools) {
+async function randomize(doing, langs, tools) {
   let random1 = doing[Math.floor(doing.length * Math.random())];
   let random2 = langs[Math.floor(langs.length * Math.random())];
   let random3 = tools[Math.floor(tools.length * Math.random())];
