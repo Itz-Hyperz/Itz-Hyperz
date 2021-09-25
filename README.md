@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Hyperz! ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.dev/)
+## Hey 👋, I'm Hyperz! ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.net/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.net/)
 
 ```js
 async function legend() {
