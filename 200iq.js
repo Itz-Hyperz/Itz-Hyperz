@@ -5,6 +5,4 @@ async function randomize(doing, langs, tools) {
   return [random1, random2, random3];
 }
 
-module.exports = {
-  randomize: randomize
-}
+exports.randomize = randomize
