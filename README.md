@@ -7,7 +7,7 @@ async function legend() {
   const chalk = require('chalk');
 
   let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
-  let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5', 'CSS', 'MySQL', 'Python', 'Markdown'];
+  let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5/CSS', 'Java', 'MySQL', 'Python', 'Markdown'];
   let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
 
   let practice = await Hyperz.randomize(doing, langs, tools);
