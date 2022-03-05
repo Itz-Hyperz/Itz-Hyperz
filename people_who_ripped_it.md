@@ -11,6 +11,7 @@ THIS WAS ORIGINALLY MADE BY [Itz-Hyperz](https://github.com/itz-hyperz)
 - [@mythicg](https://github.com/mythicg/mythicg)
 - [@SethTheKings](https://github.com/SethTheKings/SethTheKings)
 - [@nat2k15](https://github.com/nat2k15)
+- [@PattysDevelopment](https://github.com/PattysDevelopment)
 
 # People who use code from it
 - [@calebrwalk5](https://github.com/calebrwalk5/calebrwalk5)
