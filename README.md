@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Hyperz! ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=lightgrey&style=flat) [![wakatime](https://wakatime.com/badge/user/91e4ed3a-49b0-4ecd-b7d2-bc30e741ad4c.svg)](https://wakatime.com/@91e4ed3a-49b0-4ecd-b7d2-bc30e741ad4c) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.net/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.net/)
+## Hey 👋, I'm Hyperz! ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.net/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.net/) [![wakatime](https://wakatime.com/badge/user/91e4ed3a-49b0-4ecd-b7d2-bc30e741ad4c.svg?style=social)](https://wakatime.com/@91e4ed3a-49b0-4ecd-b7d2-bc30e741ad4c)
 
 ```js
 async function legend() {
