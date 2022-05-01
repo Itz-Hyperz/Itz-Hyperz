@@ -10,14 +10,10 @@
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
-<br />
-
 ![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/light.png#gh-light-mode-only)
 ![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/dark.png#gh-dark-mode-only)
 
 **[Join Discord][discord]**
-
-<br />
 
 ## 🔧 Technologies & Tools
 
