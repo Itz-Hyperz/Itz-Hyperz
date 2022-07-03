@@ -10,8 +10,8 @@
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
-![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/light.png#gh-light-mode-only)
-![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/dark.png#gh-dark-mode-only)
+![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/light-new.png#gh-light-mode-only)
+![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/dark-new.png#gh-dark-mode-only)
 
 **[Join Discord][discord]**
 
