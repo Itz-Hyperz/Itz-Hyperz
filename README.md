@@ -36,17 +36,16 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 527 Contributions in the Year 2022
+> 🏆 171 Contributions in the Year 2022
  > 
-> 📦 22.6 kB Used in GitHub's Storage 
+> 📦 Over 50MB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> ✅ Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 4 Private Repository 
  > 
-**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.54% 
