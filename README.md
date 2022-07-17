@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=itz-hyperz&label=Views&color=lightgrey)
 [![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blazecoding.me)](https://blazecoding.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/itz_hyperz?label=Follow)](https://twitter.com/intent/follow?screen_name=itz_hyperz)
-[![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/blazecoding2009)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cblaze1111?label=Follow)](https://twitter.com/intent/follow?screen_name=cblaze1111)
+[![GitHub followers](https://img.shields.io/github/followers/blazecoding2009?label=Follow&style=social)](https://github.com/blazecoding2009)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/zyQzJeZ7CY)](https://discord.gg/zyQzJeZ7CY)
 
 *Hi! I'm Arnnav, a 13 year old student and developer in Oakville, Ontario. I am in various development groups such as, Votion Development, Hyricon Development and HyperZ Development. I'm also a hosting company owner/founder. I own a few small Minecraft Servers such as DuinoCraft. I'm also a crypto enthusiast and system administrator.*
