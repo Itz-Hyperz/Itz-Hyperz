@@ -13,6 +13,10 @@
 ![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/light-new.png#gh-light-mode-only)
 ![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/dark-new.png#gh-dark-mode-only)
 
+**[HIRE ME][hireme]**<br>
+**[HIRE ME][hireme]**<br>
+**[HIRE ME][hireme]**<br>
+<br>
 **[Join Discord][discord]**
 
 ## 🔧 Technologies & Tools
@@ -118,3 +122,4 @@ C                        1 repo              ░░░░░░░░░░░�
 [twitch]: https://twitch.tv/itzhyperzlive
 [youtube]: https://youtube.com/thatguyhyperz
 [discord]: https://store.hyperz.net/discord
+[hireme]: mailto:itzhyperzyt@gmail.com
