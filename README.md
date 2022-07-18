@@ -1,6 +1,6 @@
 ### 🔥[Blaze][website]🔥
 
-![](https://komarev.com/ghpvc/?username=itz-hyperz&label=Views&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=blazecoding2009&label=Views&color=lightgrey)
 [![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://blazecoding.me)](https://blazecoding.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cblaze1111?label=Follow)](https://twitter.com/intent/follow?screen_name=cblaze1111)
 [![GitHub followers](https://img.shields.io/github/followers/blazecoding2009?label=Follow&style=social)](https://github.com/blazecoding2009)
