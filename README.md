@@ -44,7 +44,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 764 Contributions in the Year 2022
+> 🏆 765 Contributions in the Year 2022
  > 
 > 📦 12.8 kB Used in GitHub's Storage 
  > 
@@ -81,17 +81,16 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 mins              █████████████████████░░░░   85.49% 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.51%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
