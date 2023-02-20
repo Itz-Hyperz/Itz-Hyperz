@@ -1,9 +1,9 @@
 ### 💻 [Hyperz][website] 💻
 
 ![](https://komarev.com/ghpvc/?username=itz-hyperz&label=Views&color=lightgrey)
-[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.hyperz.net)](https://store.hyperz.net)
+[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.hyperz.net)](https://bosssoftware.net)
 [![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/itz-hyperz)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://store.hyperz.net/discord)](https://store.hyperz.net/discord)
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://store.hyperz.net/discord)](https://bosssoftware.net/discord)
 
 *Hi, I'm Hyperz, a Full Stack Developer located in Michigan, USA. I mainly work on Node based applications, I have knowledge in Discord bots, ExpressJS websites, and many more projects. I've been in the programming world since 2019 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate. I'm always looking to get my hands on new projects, so feel free to reach out to me via [Discord][discord] for custom commissions!*
 
@@ -112,9 +112,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[website]: https://store.hyperz.net
+[website]: https://bosssoftware.net
 [twitter]: https://twitter.com/itz_hyperz
 [twitch]: https://twitch.tv/itzhyperzlive
 [youtube]: https://youtube.com/thatguyhyperz
-[discord]: https://store.hyperz.net/discord
+[discord]: https://bosssoftware.net/discord
 [hireme]: mailto:itzhyperzyt@gmail.com
