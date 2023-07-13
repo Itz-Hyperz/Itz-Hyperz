@@ -112,9 +112,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[website]: https://bosssoftware.net
+[website]: https://astrolabs.net
 [twitter]: https://twitter.com/itz_hyperz
 [twitch]: https://twitch.tv/itzhyperzlive
 [youtube]: https://youtube.com/thatguyhyperz
-[discord]: https://bosssoftware.net/discord
+[discord]: https://astrolabs.net/discord
 [hireme]: mailto:itzhyperzyt@gmail.com
