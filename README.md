@@ -1,9 +1,9 @@
 ### 💻 [Hyperz][website] 💻
 
 ![](https://komarev.com/ghpvc/?username=itz-hyperz&label=Views&color=lightgrey)
-[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.hyperz.net)](https://bosssoftware.net)
+[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.hyperz.net)](https://hyperz.world)
 [![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/itz-hyperz)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://store.hyperz.net/discord)](https://bosssoftware.net/discord)
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://store.hyperz.net/discord)](https://hyperz.world/discord)
 [![spotify](https://api.statusbadges.me/badge/spotify/704094587836301392)](https://api.statusbadges.me/openspotify/704094587836301392)
 ![vscode](https://api.statusbadges.me/badge/vscode/704094587836301392)
 
