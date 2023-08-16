@@ -1,5 +1,6 @@
 ### 💻 [Hyperz][website] 💻
 
+![](https://hit.yhype.me/github/profile?user_id=69090660)
 ![](https://komarev.com/ghpvc/?username=itz-hyperz&label=Views&color=lightgrey)
 [![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.hyperz.net)](https://hyperz.world)
 [![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/itz-hyperz)
