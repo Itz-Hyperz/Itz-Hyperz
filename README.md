@@ -2,9 +2,9 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=69090660)
 ![](https://komarev.com/ghpvc/?username=itz-hyperz&label=Views&color=lightgrey)
-[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.hyperz.net)](https://loganswebservices.com)
+[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.hyperz.net)]([https://loganswebservices.com](https://boss.software))
 [![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/itz-hyperz)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://store.hyperz.net/discord)](https://loganswebservices.com/discord)
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://store.hyperz.net/discord)](https://boss.software/discord)
 [![spotify](https://api.statusbadges.me/badge/spotify/704094587836301392)](https://api.statusbadges.me/openspotify/704094587836301392)
 ![vscode](https://api.statusbadges.me/badge/vscode/704094587836301392)
 
