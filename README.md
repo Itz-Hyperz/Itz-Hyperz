@@ -13,7 +13,7 @@
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
-![BossSoftwareSystemsAd](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/bossadvert.png)
+![BossSoftwareSystemsAd](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/adBannerGreen.png)
 
 **[HIRE ME][hireme]**<br>
 **[HIRE ME][hireme]**<br>
