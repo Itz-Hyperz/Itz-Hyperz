@@ -13,8 +13,7 @@
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
-![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/light-new.png#gh-light-mode-only)
-![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/dark-new.png#gh-dark-mode-only)
+![BossSoftwareSystemsAd](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/bossadvert.png)
 
 **[HIRE ME][hireme]**<br>
 **[HIRE ME][hireme]**<br>
