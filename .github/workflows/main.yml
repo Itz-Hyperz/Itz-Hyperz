@@ -1,0 +1,64 @@
+            - name: Profile Readme Development Stats
+  # You may pin to the exact commit or the version.
+  # uses: anmol098/waka-readme-stats@c6070c14861e6d8b553742b1f9e1ed9e7b53938a
+  uses: anmol098/waka-readme-stats@v5
+  with:
+    # GitHub access token with Repo scope
+    GH_TOKEN: # default is ${{ github.token }}
+    # Your Wakatime API Key
+    WAKATIME_API_KEY: 
+    # Name used in readme to scope the updated section
+    SECTION_NAME: # optional, default is waka
+    # The branch to get the readme from
+    PULL_BRANCH_NAME: # optional, default is 
+    # The branch to update the readme in
+    PUSH_BRANCH_NAME: # optional, default is 
+    # Show the list of OS Worked on In dev metrics
+    SHOW_OS: # optional, default is True
+    # Show the list of projects worked on in dev metrics
+    SHOW_PROJECTS: # optional, default is True
+    # Show the Editors used in dev metrics
+    SHOW_EDITORS: # optional, default is True
+    # Show the time zone in the dev metrics
+    SHOW_TIMEZONE: # optional, default is True
+    # Shows the number of commit graph in the dev metrics
+    SHOW_COMMIT: # optional, default is True
+    # Show the Coding language used in dev metrics
+    SHOW_LANGUAGE: # optional, default is True
+    # Show the Total Lines of code written Badge till date
+    SHOW_LINES_OF_CODE: # optional, default is False
+    # Show language or framework used across different repository
+    SHOW_LANGUAGE_PER_REPO: # optional, default is True
+    # 
+    SHOW_LOC_CHART: # optional, default is True
+    # show day of week you are most productive
+    SHOW_DAYS_OF_WEEK: # optional, default is True
+    # Shows the current profile views
+    SHOW_PROFILE_VIEWS: # optional, default is True
+    # Shows the short facts
+    SHOW_SHORT_INFO: # optional, default is True
+    # Show updated date
+    SHOW_UPDATED_DATE: # optional, default is True
+    # Show Total Time you have coded
+    SHOW_TOTAL_CODE_TIME: # optional, default is True
+    # Git commit with your own name and email
+    COMMIT_BY_ME: # optional, default is False
+    # Git commit message
+    COMMIT_MESSAGE: # optional, default is Updated with Dev Metrics
+    # Git commit custom username
+    COMMIT_USERNAME: # optional, default is 
+    # Git commit custom email
+    COMMIT_EMAIL: # optional, default is 
+    # Erase commit history on each commit
+    COMMIT_SINGLE: # optional, default is False
+    # Show stats in your own language
+    LOCALE: # optional, default is en
+    # Updated date format
+    UPDATED_DATE_FORMAT: # optional, default is %d/%m/%Y %H:%M:%S
+    # Repos you don't want to be counted
+    IGNORED_REPOS: # optional, default is 
+    # Version of the symbol block and empty of the progress bar
+    SYMBOL_VERSION: # optional, default is 1
+    # Whether to enable action debug logging
+    DEBUG_LOGGING: # optional, default is ${{ runner.debug }}
+          
