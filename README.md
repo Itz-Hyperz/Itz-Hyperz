@@ -40,15 +40,15 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-699%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-323.65%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 457.2 kB Used in GitHub's Storage 
+> 📦 457.8 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2026
+> 🏆 43 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,21 +59,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-🌆 Daytime                368 commits         ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌃 Evening                468 commits         ███████████░░░░░░░░░░░░░░   43.13 % 
-🌙 Night                  148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+🌆 Daytime                368 commits         ████████░░░░░░░░░░░░░░░░░   33.89 % 
+🌃 Evening                469 commits         ███████████░░░░░░░░░░░░░░   43.19 % 
+🌙 Night                  148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Friday                   203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Saturday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Monday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Friday                   203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Saturday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 ```
 
 
@@ -81,21 +81,21 @@ Sunday                   148 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 27 mins        ████████████████████░░░░░   80.66 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+JavaScript               1 hr 51 mins        █████████████░░░░░░░░░░░░   50.93 % 
+EJS                      1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   39.03 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OOCRadio-Desktop         1 hr 39 mins        ███████████████████████░░   92.30 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Unknown Project          1 hr 59 mins        ██████████████░░░░░░░░░░░   54.37 % 
+OOCRadio-Desktop         1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.63 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
