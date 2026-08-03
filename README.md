@@ -81,21 +81,19 @@ Sunday                   148 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 51 mins        █████████████░░░░░░░░░░░░   50.93 % 
-EJS                      1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   39.03 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+EJS                      1 hr 25 mins        ███████████████████░░░░░░   77.19 % 
+JavaScript               24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 59 mins        ██████████████░░░░░░░░░░░   54.37 % 
-OOCRadio-Desktop         1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.63 % 
+Unknown Project          1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
