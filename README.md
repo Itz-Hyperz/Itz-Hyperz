@@ -40,42 +40,42 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-323.96%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-324.18%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 457.8 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2026
+> 🏆 55 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌆 Daytime                373 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
-🌃 Evening                469 commits         ███████████░░░░░░░░░░░░░░   42.99 % 
-🌙 Night                  148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+🌆 Daytime                373 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌃 Evening                471 commits         ███████████░░░░░░░░░░░░░░   43.09 % 
+🌙 Night                  148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Friday                   203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Saturday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Friday                   203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Saturday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 
 
@@ -83,31 +83,32 @@ Sunday                   148 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      30 mins             ████████████████░░░░░░░░░   62.41 % 
-TypeScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-HTML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+CSS                      30 mins             ███████████░░░░░░░░░░░░░░   43.35 % 
+HTML                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          35 mins             ███████████████████░░░░░░   74.03 % 
-Vencord                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-BossCDN                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Jynxzi Files — Countdown_1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Unknown Project          43 mins             ███████████████░░░░░░░░░░   60.60 % 
+Equithemes.org-master    15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Vencord                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+BossCDN                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Jynxzi Files — Countdown_1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (4.88%)
+⏱ AI Coding Time: 2 mins (3.3%)
 
-✍️ 0 lines written by AI, 23 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 25 lines written by hand (0.0% AI-written)
 
 🔤 29,246 Input Tokens, 2,394 Output Tokens
 
