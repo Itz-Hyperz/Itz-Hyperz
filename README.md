@@ -10,7 +10,7 @@
 
 [![DOD Badge](https://img.shields.io/badge/COMPANY-BOSS%20SOFTWARE-17bd88?style=for-the-badge)](https://github.com/boss-software) [![DOD Badge](https://img.shields.io/badge/NON%20PROFIT-SLOW%20DOWN%204%20SAM-edbd42?style=for-the-badge)](https://github.com/slow-down-4-sam)
 
-Hi, I'm Hyperz, a Full Stack Developer located in Michigan, USA. I mainly work on Node based applications, I have knowledge in Discord bots, ExpressJS websites, and many more projects. I've been in the programming world since 2019 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate. I'm always looking to get my hands on new projects, so feel free to reach out to me via [Discord][discord] for custom commissions!
+Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I mainly work on Node based applications, I have knowledge in Discord bots, ExpressJS websites, and many more projects. I've been in the programming world since 2019 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate. I'm always looking to get my hands on new projects, so feel free to reach out to me via [Discord][discord] for custom commissions!
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
