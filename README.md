@@ -41,17 +41,17 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-324.50%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-368.49%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 457.8 kB Used in GitHub's Storage 
+> 📦 467.7 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2026
+> 🏆 122 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-🌆 Daytime                374 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
-🌃 Evening                471 commits         ███████████░░░░░░░░░░░░░░   42.39 % 
-🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+🌆 Daytime                402 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
+🌃 Evening                471 commits         ██████████░░░░░░░░░░░░░░░   40.26 % 
+🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Friday                   206 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Saturday                 191 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Sunday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 ```
 
 
@@ -84,32 +84,32 @@ Sunday                   148 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      30 mins             ███████████░░░░░░░░░░░░░░   43.35 % 
-HTML                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+CSS                      32 mins             █████████░░░░░░░░░░░░░░░░   36.12 % 
+HTML                     30 mins             █████████░░░░░░░░░░░░░░░░   34.26 % 
+Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          43 mins             ███████████████░░░░░░░░░░   60.60 % 
-Equithemes.org-master    15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Vencord                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-BossCDN                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Jynxzi Files — Countdown_1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Unknown Project          52 mins             ███████████████░░░░░░░░░░   59.61 % 
+Equithemes.org-master    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Vencord                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+file                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+BossCDN                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (3.3%)
+⏱ AI Coding Time: 2 mins (2.65%)
 
-✍️ 0 lines written by AI, 25 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 542 lines written by hand (0.0% AI-written)
 
 🔤 29,246 Input Tokens, 2,394 Output Tokens
 
@@ -129,11 +129,11 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               22 repos            ███████████████░░░░░░░░░░   59.46 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-mcfunction               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JavaScript               23 repos            ███████████████░░░░░░░░░░   60.53 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+mcfunction               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
