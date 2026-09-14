@@ -41,7 +41,7 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -51,7 +51,7 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 
 > 📦 467.7 kB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2026
+> 🏆 126 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-🌆 Daytime                402 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
-🌃 Evening                471 commits         ██████████░░░░░░░░░░░░░░░   40.26 % 
-🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+🌆 Daytime                407 commits         █████████░░░░░░░░░░░░░░░░   34.64 % 
+🌃 Evening                471 commits         ██████████░░░░░░░░░░░░░░░   40.09 % 
+🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Sunday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 ```
 
 
@@ -84,32 +84,32 @@ Sunday                   181 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      32 mins             █████████░░░░░░░░░░░░░░░░   36.12 % 
-HTML                     30 mins             █████████░░░░░░░░░░░░░░░░   34.26 % 
-Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+CSS                      58 mins             ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+EJS                      54 mins             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+HTML                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          52 mins             ███████████████░░░░░░░░░░   59.61 % 
-Equithemes.org-master    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Vencord                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-file                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-BossCDN                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+slowdown4sam.org         1 hr 39 mins        █████████████░░░░░░░░░░░░   50.90 % 
+Unknown Project          1 hr                ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Equithemes.org-master    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Vencord                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+file                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (2.65%)
+⏱ AI Coding Time: 2 mins (1.2%)
 
-✍️ 0 lines written by AI, 542 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 990 lines written by hand (0.0% AI-written)
 
 🔤 29,246 Input Tokens, 2,394 Output Tokens
 
