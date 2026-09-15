@@ -51,7 +51,7 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 
 > 📦 467.7 kB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2026
+> 🏆 128 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-🌆 Daytime                407 commits         █████████░░░░░░░░░░░░░░░░   34.64 % 
-🌃 Evening                471 commits         ██████████░░░░░░░░░░░░░░░   40.09 % 
-🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌆 Daytime                409 commits         █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌃 Evening                471 commits         ██████████░░░░░░░░░░░░░░░   40.02 % 
+🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Tuesday                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 ```
 
 
@@ -84,46 +84,29 @@ Sunday                   186 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      58 mins             ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-EJS                      54 mins             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-HTML                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+EJS                      54 mins             █████████░░░░░░░░░░░░░░░░   35.93 % 
+CSS                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+HTML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-slowdown4sam.org         1 hr 39 mins        █████████████░░░░░░░░░░░░   50.90 % 
-Unknown Project          1 hr                ████████░░░░░░░░░░░░░░░░░   30.83 % 
-Equithemes.org-master    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Vencord                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-file                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+slowdown4sam.org         1 hr 39 mins        ████████████████░░░░░░░░░   65.83 % 
+Unknown Project          28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Equithemes.org-master    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+file                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (1.2%)
-
-✍️ 0 lines written by AI, 990 lines written by hand (0.0% AI-written)
-
-🔤 29,246 Input Tokens, 2,394 Output Tokens
-
-💵 $0.12 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 26 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
