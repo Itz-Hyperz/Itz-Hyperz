@@ -45,13 +45,13 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-368.49%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-368.50%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 467.7 kB Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2026
+> 🏆 129 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-🌆 Daytime                409 commits         █████████░░░░░░░░░░░░░░░░   34.75 % 
-🌃 Evening                471 commits         ██████████░░░░░░░░░░░░░░░   40.02 % 
-🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌆 Daytime                409 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
+🌃 Evening                472 commits         ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Tuesday                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
 
 
