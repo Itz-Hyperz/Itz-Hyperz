@@ -84,23 +84,22 @@ Sunday                   186 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-EJS                      54 mins             █████████░░░░░░░░░░░░░░░░   35.93 % 
-CSS                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-HTML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+EJS                      54 mins             ███████████░░░░░░░░░░░░░░   42.38 % 
+CSS                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+HTML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-slowdown4sam.org         1 hr 39 mins        ████████████████░░░░░░░░░   65.83 % 
-Unknown Project          28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Equithemes.org-master    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-file                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+slowdown4sam.org         1 hr 39 mins        ███████████████████░░░░░░   77.64 % 
+Unknown Project          20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+file                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
