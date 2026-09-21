@@ -41,7 +41,7 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -84,21 +84,21 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-EJS                      54 mins             ████████████░░░░░░░░░░░░░   46.99 % 
-CSS                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-JavaScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JavaScript               41 mins             ██████████░░░░░░░░░░░░░░░   41.01 % 
+EJS                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-slowdown4sam.org         1 hr 39 mins        ██████████████████████░░░   86.09 % 
-Unknown Project          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Unknown Project          1 hr 18 mins        ███████████████████░░░░░░   76.51 % 
+Ban Database             23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
