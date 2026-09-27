@@ -84,21 +84,20 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               41 mins             ██████████░░░░░░░░░░░░░░░   41.01 % 
-EJS                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JavaScript               41 mins             ███████████░░░░░░░░░░░░░░   44.76 % 
+EJS                      24 mins             ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 18 mins        ███████████████████░░░░░░   76.51 % 
-Ban Database             23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Unknown Project          1 hr 9 mins         ███████████████████░░░░░░   74.36 % 
+Ban Database             23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
