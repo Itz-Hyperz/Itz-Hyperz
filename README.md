@@ -84,20 +84,16 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               41 mins             ███████████░░░░░░░░░░░░░░   44.76 % 
-EJS                      24 mins             ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 9 mins         ███████████████████░░░░░░   74.36 % 
-Ban Database             23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
