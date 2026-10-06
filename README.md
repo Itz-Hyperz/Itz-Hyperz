@@ -105,11 +105,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            ██████████████░░░░░░░░░░░   54.17 % 
-EJS                      12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-mcfunction               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JavaScript               25 repos            ██████████████░░░░░░░░░░░   54.35 % 
+EJS                      12 repos            ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
