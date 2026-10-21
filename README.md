@@ -51,7 +51,7 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 
 > 📦 479.2 kB Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2026
+> 🏆 186 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                183 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-🌆 Daytime                409 commits         ████████░░░░░░░░░░░░░░░░░   33.58 % 
-🌃 Evening                475 commits         ██████████░░░░░░░░░░░░░░░   39.00 % 
-🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌞 Morning                183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+🌆 Daytime                409 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌃 Evening                479 commits         ██████████░░░░░░░░░░░░░░░   39.20 % 
+🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Saturday                 218 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Sunday                   223 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Tuesday                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Thursday                 122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Saturday                 218 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Sunday                   223 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 ```
 
 
@@ -84,20 +84,16 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-EJS                      12 mins             █████████░░░░░░░░░░░░░░░░   35.11 % 
-JavaScript               11 mins             █████████░░░░░░░░░░░░░░░░   34.80 % 
-CSS                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
