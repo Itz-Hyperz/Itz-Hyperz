@@ -41,17 +41,17 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-436.21%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-436.72%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 479.6 kB Used in GitHub's Storage 
+> 📦 479.8 kB Used in GitHub's Storage 
  > 
-> 🏆 195 Contributions in the Year 2026
+> 🏆 203 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +62,21 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-🌆 Daytime                410 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                479 commits         ██████████░░░░░░░░░░░░░░░   38.94 % 
-🌙 Night                  152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+🌞 Morning                189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+🌆 Daytime                410 commits         ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌃 Evening                488 commits         ██████████░░░░░░░░░░░░░░░   39.39 % 
+🌙 Night                  152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Tuesday                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Thursday                 122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Saturday                 226 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Sunday                   223 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Tuesday                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Wednesday                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Thursday                 122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Friday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Saturday                 226 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Sunday                   232 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 ```
 
 
@@ -84,20 +84,20 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-EJS                      1 hr 17 mins        ███████████████░░░░░░░░░░   61.06 % 
-JavaScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+JavaScript               1 hr 33 mins        ███████████░░░░░░░░░░░░░░   43.60 % 
+EJS                      1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   37.05 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 7 mins        █████████████████████████   100.00 % 
+Unknown Project          3 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
