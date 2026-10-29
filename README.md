@@ -51,11 +51,11 @@ Hi, I'm Logan Gross (Hyperz), a Full Stack Developer located in Michigan, USA. I
 
 > 📦 479.8 kB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2026
+> 🏆 211 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -109,11 +109,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            █████████████░░░░░░░░░░░░   52.08 % 
-EJS                      14 repos            ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               25 repos            █████████████░░░░░░░░░░░░   51.02 % 
+EJS                      14 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
